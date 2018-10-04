@@ -1,0 +1,36 @@
+==============================
+TESTING ON INPUT PROBLEM:
+p
+CORRECT OUTPUT:
+1
+YOUR OUTPUT:
+1
+Correct!
+==============================
+TESTING ON INPUT PROBLEM:
+(NOT (NOT (NOT (NOT not))  )		)
+CORRECT OUTPUT:
+1
+YOUR OUTPUT:
+1
+Correct!
+==============================
+TESTING ON INPUT PROBLEM:
+(IF p p)
+CORRECT OUTPUT:
+T
+YOUR OUTPUT:
+T
+Correct!
+==============================
+TESTING ON INPUT PROBLEM:
+(AND p (NOT p))
+CORRECT OUTPUT:
+U
+YOUR OUTPUT:
+U
+Correct!
+==============================
+==============================
+==============================
+FINAL SCORE:100
